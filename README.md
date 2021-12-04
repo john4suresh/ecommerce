@@ -1,3 +1,5 @@
 # ECOMMERCE
 
-13th
+Finished 19th Container Pattern;
+
+Progress 20thRedux-Saga
